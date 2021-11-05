@@ -2,7 +2,7 @@
 
 Hi, I'm gittig11, a passionate FrontEnd developer & a tireless explorer.
 
-- 🔭 I’m currently working on [vue-picture-puzzle](https://github.com/gittig11/vue-picture-puzzle).
+- 🔭 I’m currently working on [chrome-raising-cat](https://github.com/gittig11/chrome-raising-cat), [vue-picture-puzzle](https://github.com/gittig11/vue-picture-puzzle).
 - 🌱 I’m currently learning Vue, React, Canvas & Docker.
 - 💬 Ask me anything [here](https://github.com/gittig11/gittig11/issues).
 
